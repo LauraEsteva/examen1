@@ -41,6 +41,7 @@ main{
 
 .cuerpo-acceso {
     background-color: white;
+    position: relative;
 }
 
 
@@ -218,7 +219,7 @@ img {
     justify-content: center;
     position: absolute;
     left: 50%;
-    top: 34.5%;
+    top: 44%;
     background-color: white;
     padding: 0 0.5vh;
 }
